@@ -1,1 +1,1 @@
-# The default keymap for id80
+# id80 Layout v1.1 - jklñ Macros + switched ctrl
